@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="logo intellicash.png" />
+  <img align="center" width="300" src="logo intellicash.png" />
 </p>
 <h1 align="center"><i></i>IntelliCash</i></h1>
 
