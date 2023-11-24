@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" width="300" src="logo intellicash.png" />
 </p>
-<h1 align="center"></i>IntelliCash: Your Intelligent Finance Assistant</i></h1>
+<h1 align="center"><em>IntelliCash</em> : Your Intelligent Finance Assistant</h1>
 <h3 align="center"> Themes : SME Empowerment</h3>
 <h3 align="center">Bangkit 2023</h3>
 <h3 align="center">Capstone Team: CH-PS506</h3>
