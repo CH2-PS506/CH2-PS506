@@ -4,7 +4,7 @@
 <h1 align="center"><em>IntelliCash</em> : Your Intelligent Finance Assistant</h1>
 <h3 align="center"> Themes : SME Empowerment</h3>
 <h3 align="center">Bangkit 2023</h3>
-<h3 align="center">Capstone Team: CH-PS506</h3>
+<h3 align="center">Capstone Team: CH2-PS506</h3>
 
 #### Members
 |            Name            |      ID        |       Path         |
